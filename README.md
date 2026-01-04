@@ -1,8 +1,4 @@
-# 📘 C Language Practice – Chapter 5 & 6
-
-## 🔹 Chapter 5: Expressions and Operators  
-## 🔹 Chapter 6: Conditional Statements
-
+# 📘 C Language Practice – Chapter 5~6
 이 저장소는 C 언어의 **수식과 연산자**, **조건문(if–else)** 을 학습하기 위한 연습 문제와 풀이 코드를 정리한 것입니다.
 ----------------------------------------------------------------------------------------------------------------
 ## 📝 Practice Problems
