@@ -4,7 +4,7 @@ int max_even()
 {
 	int a, b, c;
 	int max;
-	printf("¼¼Á¤¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À:");
+	printf("ì„¸ ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì‹œì˜¤:");
 	scanf("%d %d %d", &a, &b, &c);
 
 	if (a > b)
@@ -30,4 +30,5 @@ int max_even()
 		printf("odd number\n");
 
 	return 0;
+
 }
