@@ -4,7 +4,7 @@ int ticket()
 {
 	int age;
 	int price;
-	printf("³ªÀÌ¸¦ ÀÔ·ÂÇÏ½Ã¿À:");
+	printf("ë‚˜ì´ë¥¼ ì…ë ¥í•˜ì‹œì˜¤:");
 	scanf("%d", &age);
 
 	if (age >= 0 && age <= 7)
@@ -21,4 +21,5 @@ int ticket()
 	printf("final price = %d", price);
 
 	return 0;
+
 }
